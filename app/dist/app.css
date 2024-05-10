@@ -1,5 +1,5 @@
 /**
-  * Name: ICOLand | ICO landing page & ICO Crypto HTML Template
+  * Name: Cyberpast Nft | ICO landing page & ICO Crypto HTML Template
   * Version: 1.0.2
   * Author: Themesflat
   * Author URI: http://www.themesflat.com
@@ -25,18 +25,18 @@ body {
   font-weight: 400;
   line-height: 1.73;
   color: #F6F6F6;
-  background-color: #050231;
+  background-color: #0F102F;
   position: relative;
   overflow-x: hidden;
   color: #A09FAF;
 }
 
 :root {
-  --primary-color: #FF4581;
+  --primary-color: #C004DE;
 }
 
 .home-main {
-  --primary-color: #FF4581;
+  --primary-color: #311C47;
 }
 
 .home-nft, .home-music {
@@ -9885,7 +9885,7 @@ img.mfp-img {
 .dashboard .dashboard__sidebar {
   position: fixed;
   z-index: 99;
-  width: 352px;
+  width: 302px;
   height: 100%;
   left: -360px;
   background: #14141F;
@@ -9902,7 +9902,7 @@ img.mfp-img {
   left: 0px;
 }
 .dashboard .dashboard__sidebar .sidebar__logo {
-  padding: 40px 0;
+  padding: 20px 0;
   display: flex;
   align-items: center;
   justify-content: center;
