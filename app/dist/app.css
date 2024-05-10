@@ -1067,6 +1067,7 @@ h3, h5 {
   padding: 14px 40px;
   position: relative;
   display: inline-block;
+  margin-left: 13px;
 }
 .btn-action.style-6::after {
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.13) 0px, rgba(255, 255, 255, 0.13) 77%, rgba(255, 255, 255, 0.5) 92%, rgba(255, 255, 255, 0));
